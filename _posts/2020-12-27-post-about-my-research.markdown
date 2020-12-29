@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is Moores's Law dead?"
+title:  "Is Moore's Law dead?"
 date:   2020-12-27 15:24:46 +0530
 categories:
 ---
